@@ -91,4 +91,9 @@ html {
   .footer-section {
     display: none;
   }
+  .footer-section_mobile {
+    display: block;
+    text-align: center;
+    background-color: rgb(143, 136, 136);
+  }
 }
